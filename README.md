@@ -10,3 +10,4 @@
 * js
 
     * [cache函数结果](./js/cache.js)
+    * [once函数](./js/once.js)
